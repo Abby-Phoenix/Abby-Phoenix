@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abby-Phoenix
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML, CSS & JS
+- 👀 I’m interested in Frontend/ Web Development
+- 🌱 I’m currently learning JS/ React
 - 💞️ I’m looking to collaborate on nothing at the moment 
 - 📫 How to reach me: abbyphoenix27@gmail.com
 
